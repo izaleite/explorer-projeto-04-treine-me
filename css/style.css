@@ -31,10 +31,12 @@ nav ul li a {
   color: #1F1534;
   font-size: 18px;
   font-weight: regular;
+  opacity: 0.5;
 }
 
 ul li a:hover {
   font-weight: bold;
+  opacity:1;
 }
 
 .left-box {
